@@ -1,0 +1,23 @@
+[project]
+name = "bci"
+version = "0.1.0"
+description = "BCI project"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mne",
+    "moabb",
+    "numpy",
+    "scipy",
+    "scikit-learn",
+    "torch",
+    "braindecode",
+    "pandas",
+    "matplotlib",
+    "tqdm",
+    "pyyaml",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

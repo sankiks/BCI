@@ -1,0 +1,11 @@
+mne
+moabb
+numpy
+scipy
+scikit-learn
+torch
+braindecode
+pandas
+matplotlib
+tqdm
+pyyaml
